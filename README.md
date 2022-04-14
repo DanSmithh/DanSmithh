@@ -9,5 +9,4 @@
 
 <div>
   <a href="https://www.linkedin.com/in/daniel-oliveira-8234aa1a7/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://medium.com/@matheusreyes"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white"></a>
 </div>
