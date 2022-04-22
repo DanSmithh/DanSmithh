@@ -1,6 +1,6 @@
 
   
-## Olá eu sou Daniel...
+## Oi eu sou Daniel :wave:
   
 Moro em São Paulo curso o último semestre de **análise e desenvolvimento de sistemas** pela **universidade Paulista(UNIP)** onde além de toda  abordagem acadêmica criamos aplicações ultilizando **JAVA, C e C#**.
 
