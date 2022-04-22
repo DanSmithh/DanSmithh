@@ -1,14 +1,12 @@
 
   
-##
+## Olá eu sou Daniel...
   
-Olá eu sou Daniel...
-  
-###
-  
-Sou formado em análise e desenvolvimento de sistemas pela universidade Paulista(UNIP), também cursei o curso de desenvolvedor web fullstack pela Digital House para onde me apronfundei dentro da linguagem Javascript ultilizando NodeJS, Express, ReactJS, Sequelize, MySQL e arquitetura MVC, além de melhorar minhas Skills em HTML e CSS .
+Moro em São Paulo curso o último semestre de **análise e desenvolvimento de sistemas** pela **universidade Paulista(UNIP)**, também cursei o curso de **desenvolvedor web fullstack** pela **Digital House** para onde me apronfundei dentro da linguagem **Javascript** ultilizando **NodeJS, Express, ReactJS, Sequelize, MySQL e arquitetura MVC, além de melhorar minhas Skills em HTML e CSS** .
 
-Busco sempre me desenvolver e melhorar minhas  hard skills e soft skills conseguindo assim alcançar minha primeira oportunidade na área de desenvolvimento.
+Busco sempre me desenvolver e melhorar minhas **hard skills** e **soft skills** conseguindo assim alcançar minha primeira oportunidade na área de desenvolvimento.
+
+
   
 ### 
 
