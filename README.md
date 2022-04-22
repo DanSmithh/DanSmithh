@@ -2,7 +2,7 @@
   
 ## Olá eu sou Daniel...
   
-Moro em São Paulo curso o último semestre de **análise e desenvolvimento de sistemas** pela **universidade Paulista(UNIP)** onde além de toda  abordagem acadêmica criamos aplicações ultilizando JAVA, C e C#, também cursei o curso de **desenvolvedor web fullstack** pela escola de programação **Digital House** onde me apronfundei dentro da linguagem **Javascript** ultilizando **NodeJS, Express, ReactJS,  GIT, Sequelize, MySQL, SQL e arquitetura MVC, além de melhorar minhas Skills em HTML e CSS e Metodologias Ágeis**.
+Moro em São Paulo curso o último semestre de **análise e desenvolvimento de sistemas** pela **universidade Paulista(UNIP)** onde além de toda  abordagem acadêmica criamos aplicações ultilizando **JAVA, C e C#**, também cursei o curso de **desenvolvedor web fullstack** pela escola de programação **Digital House** onde me apronfundei dentro da linguagem **Javascript** ultilizando **NodeJS, Express, ReactJS,  GIT, Sequelize, MySQL, SQL e arquitetura MVC, além de melhorar minhas Skills em HTML e CSS e Metodologias Ágeis**.
 
 Busco sempre me desenvolver e melhorar minhas **hard skills** e **soft skills** conseguindo assim alcançar minha primeira oportunidade na área de desenvolvimento.
 
