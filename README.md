@@ -6,7 +6,7 @@ Moro em São Paulo curso o último semestre de **análise e desenvolvimento de s
 
 <br />
 
-Também estudo **desenvolvedor web fullstack** pela escola de programação **[Digital House](https://www.digitalhouse.com/)** onde apronfundei meu conhecimento em **Javascript** ultilizando **NodeJS, Express, ReactJS,  GIT, Sequelize, MySQL, SQL e arquitetura MVC, além de melhorar minhas Skills em HTML e CSS e Metodologias Ágeis** além do desenvolvimento de uma aplicação do zero ultilizando todas as tecnologias abordadas que será analisado pela banca para sermos certificados.
+Também estudo **desenvolvedor web fullstack** pela escola de programação **[Digital House](https://www.digitalhouse.com/)** onde apronfundei meu conhecimento em **Javascript** ultilizando **NodeJS, Express, ReactJS,  GIT, Sequelize, MySQL, SQL e arquitetura MVC** também melhorando minhas Skills em **HTML e CSS** e **Metodologias Ágeis** além do desenvolvimento de uma aplicação do zero ultilizando todas as tecnologias abordadas que será analisado pela banca para sermos certificados.
 
 <br />
 
