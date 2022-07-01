@@ -9,6 +9,7 @@ Eu tenho 27 anos, sou formado em Análise e desenvolvimento de sistemas e sempre
 - 🌍 Hoje vivo em Osasco / SP - Brasil
 - ✉️ Você pode entrar em contato comigo no email: [daniel.odsilvas@gmail.com](mailto:daniel.odsilvas@gmail.com)
 - 🚀 Estou participando do programa Hiring Coders #3 da [VTEX](https://vtex.com/br-pt/)
+- :computer: Estou participando do programa Start da [Capgemini](https://www.capgemini.com/)
 - 🤝 Estou aberto a colaborar em projetos que contribua com a vida das pessoas
 
 ### ​Skills
