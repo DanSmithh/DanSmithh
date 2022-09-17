@@ -1,6 +1,8 @@
 # Olá! Meu nome é Daniel
 
-## Atualmente trabalho como Analista de suporte Jr na Scala uma das empresas do grupo Stefanini, trabalho no time de Observability utilizando a ferramenta de APM Dynatrace.
+## Analista de sistemas.
+
+Atualmente trabalho como Analista de suporte Jr na Scala uma das empresas do grupo Stefanini, trabalho no time de Observability utilizando a ferramenta de APM Dynatrace
 
 Eu tenho 27 anos, sou formado em Análise e desenvolvimento de sistemas e sempre fui apaixonado por tecnologias.
 
