@@ -1,6 +1,6 @@
 # Olá! Meu nome é Daniel
 
-## Analista de sistemas.
+## Analista de sistemas e desenvolvedor Web Full Stack
 
 Atualmente trabalho como Analista de suporte Jr na Scala uma das empresas do grupo Stefanini, trabalho no time de Observability utilizando a ferramenta de APM Dynatrace
 
