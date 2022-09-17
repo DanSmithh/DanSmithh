@@ -1,10 +1,10 @@
 # Olá! Meu nome é Daniel
 
-## Desenvolvedor Web Full Stack
+## Atualmente trabalho como Analista de suporte Jr na Scala uma das empresas do grupo Stefanini, trabalho no time de Observability utilizando a ferramenta de APM Dynatrace.
 
 Eu tenho 27 anos, sou formado em Análise e desenvolvimento de sistemas e sempre fui apaixonado por tecnologias.
 
-- 🧠 Estudo **desenvolvimento web fullstack** pela escola de programação **[Digital House](https://www.digitalhouse.com/)** onde apronfundei meu conhecimento em **Javascript** ultilizando **NodeJS, Express, ReactJS,  GIT, Sequelize, MySQL, SQL e arquitetura MVC** também melhorando minhas Skills em **HTML e CSS** e **Metodologias Ágeis** além do desenvolvimento de uma aplicação do zero ultilizando todas as tecnologias abordadas que será analisado pela banca para sermos certificados pela [Digital House](https://www.digitalhouse.com/br).
+- 🧠 Estudei **desenvolvimento web fullstack** com o curso intensivo na escola de programação **[Digital House](https://www.digitalhouse.com/)** onde apronfundei meu conhecimento em **Javascript** ultilizando **NodeJS, Express, ReactJS,  GIT, Sequelize, MySQL, SQL e arquitetura MVC** também melhorando minhas Skills em **HTML e CSS** e **Metodologias Ágeis** além do desenvolvimento de uma aplicação do zero ultilizando todas as tecnologias abordadas que será analisado pela banca para sermos certificados pela [Digital House](https://www.digitalhouse.com/br).
 
 - 🌍 Hoje vivo em Osasco / SP - Brasil
 - ✉️ Você pode entrar em contato comigo no email: [daniel.odsilvas@gmail.com](mailto:daniel.odsilvas@gmail.com)
