@@ -2,7 +2,7 @@
 
 ## Analista de sistemas e desenvolvedor Web Full Stack
 
-Atualmente trabalho como Analista de suporte Jr na Scala uma das empresas do grupo Stefanini, trabalho no time de Observability utilizando a ferramenta de APM Dynatrace
+Atualmente trabalho como Analista Jr na Scala uma das empresas do grupo Stefanini, trabalho no time de Observability utilizando a ferramenta de APM Dynatrace
 
 Eu tenho 27 anos, sou formado em Análise e desenvolvimento de sistemas e sempre fui apaixonado por tecnologias.
 
