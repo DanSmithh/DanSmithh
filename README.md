@@ -8,9 +8,9 @@ Eu tenho 27 anos, sou formado em Análise e desenvolvimento de sistemas e sempre
 
 - 🧠 Estudei **desenvolvimento web fullstack** com o curso intensivo na escola de programação **[Digital House](https://www.digitalhouse.com/)** onde apronfundei meu conhecimento em **Javascript** ultilizando **NodeJS, Express, ReactJS,  GIT, Sequelize, MySQL, SQL e arquitetura MVC** também melhorando minhas Skills em **HTML e CSS** e **Metodologias Ágeis** além do desenvolvimento de uma aplicação do zero ultilizando todas as tecnologias abordadas que será analisado pela banca para sermos certificados pela [Digital House](https://www.digitalhouse.com/br).
 
-- 🌍 Hoje vivo em Osasco / SP - Brasil
+- 🌍 Moro em Osasco / SP - Brasil
 - ✉️ Você pode entrar em contato comigo no email: [daniel.odsilvas@gmail.com](mailto:daniel.odsilvas@gmail.com)
-- 🚀 Estou participando do programa Hiring Coders #3 da [VTEX](https://vtex.com/br-pt/)
+- 🚀 Semi-finalista do programa Hiring Coders #3 da [VTEX](https://vtex.com/br-pt/)
 - :computer: Estou participando do programa Start da [Capgemini](https://www.capgemini.com/)
 - 🤝 Estou aberto a colaborar em projetos que contribua com a vida das pessoas
 
