@@ -21,8 +21,6 @@ Eu tenho 27 anos, sou formado em Análise e desenvolvimento de sistemas e sempre
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="36" width="36" alt="CSS">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" height="36" width="36" alt="React">
-    <img src="https://www.bitmat.it/wp-content/uploads/2017/11/Dynatrace_Logo_RGB_CPV_512x512px.png" height="36" width="36" alt="Dynatrace">
-    <img src="https://www.clipartmax.com/png/middle/146-1469802_logo-logo-docker.png" height="36" width="36" alt="Docker">
 </p>
 
 ### Social
