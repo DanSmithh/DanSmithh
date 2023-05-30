@@ -1,17 +1,18 @@
 # Olá! Meu nome é Daniel
 
-## Analista de sistemas e desenvolvedor Web Full Stack
+## Analista de sistemas, SRE e desenvolvedor Web Full Stack
 
-Atualmente trabalho como Analista Jr na Scala/Stefanini, trabalho no time de Observability utilizando a ferramenta de APM Dynatrace
+Atualmente trabalho como Analista SRE na Scala/Stefanini, no time de Observability como consultor em Observabilidade com Dynatrace, Prometheus, Grafana.
+
+Possuo conhecimentos em Docker, Kubernetes, Clouds(GCP, AWS) e automações com Python e Shell Script.
 
 Eu tenho 27 anos, sou formado em Análise e desenvolvimento de sistemas e sempre fui apaixonado por tecnologias.
 
-- 🧠 Estudei **desenvolvimento web fullstack** com o curso intensivo na escola de programação **[Digital House](https://www.digitalhouse.com/)** onde apronfundei meu conhecimento em **Javascript** ultilizando **NodeJS, Express, ReactJS,  GIT, Sequelize, MySQL, SQL e arquitetura MVC** também melhorando minhas Skills em **HTML e CSS** e **Metodologias Ágeis** além do desenvolvimento de uma aplicação do zero ultilizando todas as tecnologias abordadas que será analisado pela banca para sermos certificados pela [Digital House](https://www.digitalhouse.com/br).
+- 🧠 Realizei a formação de **desenvolvimento web fullstack** na escola de programação **[Digital House](https://www.digitalhouse.com/)** onde apronfundei meu conhecimento em **Javascript** ultilizando **NodeJS, Express, ReactJS,  GIT, Sequelize, MySQL, SQL e arquitetura de software** também melhorando minhas Skills em **HTML e CSS** e **Metodologias Ágeis** além do desenvolvimento de uma aplicação do zero ultilizando todas as tecnologias abordadas que foi analisadada pela banca para sermos certificados pela [Digital House](https://www.digitalhouse.com/br).
 
 - 🌍 Moro em Osasco / SP - Brasil
 - ✉️ Você pode entrar em contato comigo no email: [daniel.odsilvas@gmail.com](mailto:daniel.odsilvas@gmail.com)
 - 🚀 Semi-finalista do programa Hiring Coders #3 da [VTEX](https://vtex.com/br-pt/)
-- :computer: Estou participando do programa Start da [Capgemini](https://www.capgemini.com/)
 - 🤝 Estou aberto a colaborar em projetos que contribua com a vida das pessoas
 
 ### ​Skills
